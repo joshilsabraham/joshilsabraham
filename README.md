@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate computer science engineering stud
 - **Tools & Technologies**: Git, GitHub, Markdown
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mighty070jail&show_icons=true&theme=radical)
 
 ## 💼 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshil-s-abraham/)
