@@ -24,9 +24,23 @@ Welcome to my GitHub profile! I'm a passionate computer science engineering stud
 
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mighty070jail&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mighty070jail&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mighty070jail&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mighty070jail&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/mighty070jail/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mighty070jail&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/mighty070jail/github-readme-stats#gh-light-mode-only)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mighty070jail&theme=react#gh-dark-mode-only)]()
+![](https://github-readme-streak-stats.herokuapp.com/?user=mighty070jail&theme=swift#gh-light-mode-only)]
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+[![30-Days-Of-Python](https://github-readme-stats.vercel.app/api/pin/?username=mighty070jail&repo=30-Days-Of-Python)](https://github.com/mighty070jail/30-Days-Of-Python)
+[![Python-Lab](https://github-readme-stats.vercel.app/api/pin/?username=mighty070jail&repo=Python-Lab)](https://github.com/mighty070jail/Python-Lab)
+
 
 ## 🌱 Goals for 2024
 - Complete **Python** proficiency for me and my team
