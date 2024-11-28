@@ -27,20 +27,11 @@ Welcome to my GitHub profile! I'm a passionate computer science engineering stud
 
 ## 📈 GitHub Stats
 <a href="https://github.com/mighty070jail/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mighty070jail" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mighty070jail" />
 </a>
 <a href="https://github.com/mighty070jail/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mighty070jail&layout=compact&langs_count=8&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mighty070jail&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<a href="https://github.com/mighty070jail/30-Days-Of-Python">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty070jail&repo=30-Days-Of-Python" />
-</a>
-<a href="https://github.com/mighty070jail/Python-Lab">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mighty070jail&repo=Python-Lab" />
-</a>
-
-
 
 ## 🌱 Goals for 2024
 - Complete **Python** proficiency for me and my team
