@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate computer science engineering stud
 
 ## 🚀 About Me
 - 🎓 I’m currently studying **Computer Science Engineering** at **SJCET, Palai**
-- 🌱 Currently learning **Python** and helping my team learn it too
+- 🌱 Currently learning **Python** and **C**
 - 🤔 I’m exploring opportunities in **Software Development** and **Data Science**
 - ⚡ Fun fact: I love to solve coding challenges and build innovative projects
 
 ## 🛠️ Skills
-- **Languages**: Python
+- **Languages**: Python, C
 - **Tools & Technologies**: Git, GitHub, Markdown
 
 ## 💻 Tech Stack:
