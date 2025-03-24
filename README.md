@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate computer science engineering stud
 - **Tools & Technologies**: Git, GitHub, Markdown
 
 ## 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 🌐 Socials
 <p align="left">
@@ -26,17 +26,13 @@ Welcome to my GitHub profile! I'm a passionate computer science engineering stud
 </p>
 
 ## 📈 GitHub Stats
-<a href="https://github.com/mighty070jail/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mighty070jail" />
+<a href="https://github.com/joshilsabraham/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=joshilsabraham" />
 </a>
-<a href="https://github.com/mighty070jail/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mighty070jail&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/joshilsabraham/convoychat">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshilsabraham&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## 🌱 Goals for 2024
-- Complete **Python** proficiency for me and my team
-- Contribute to open-source projects
-- Build innovative projects and showcase them on GitHub
   
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joshilsabraham) 
@@ -46,6 +42,3 @@ Welcome to my GitHub profile! I'm a passionate computer science engineering stud
 
 *Feel free to explore my repositories and reach out if you'd like to collaborate!* 😊
 *Thanks for visiting my profile!* 🙌
-
-<!--
-**mighty070jail/mighty070jail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
