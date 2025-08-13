@@ -58,3 +58,15 @@
 
 *Feel free to explore my repositories and reach out if you'd like to collaborate!* 😊
 *Thanks for visiting my profile!* 🙌
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
