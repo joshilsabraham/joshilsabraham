@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Joshil S Abraham!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Joshil+S+Abraham+👋;CS+Engineering+Student+%40+SJCET;Web+Dev+%7C+AI+Enthusiast)](https://git.io/typing-svg)
 
 <p>I'm currently studying <strong>Computer Science Engineering</strong> at <strong>SJCET, Palai</strong>. I am working on some side projects 💡, learning a couple new dishes 🍳, and trying to conquer the world 🌍🚀.</p>
 - 🌱 Currently learning: Java and PHP
